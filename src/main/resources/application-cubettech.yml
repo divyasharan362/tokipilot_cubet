@@ -1,0 +1,3 @@
+com:
+  flights:
+     baseUrl: https://tokigames-challenge.herokuapp.com

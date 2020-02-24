@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "departure": "Ankara",
+      "arrival": "Antalya",
+      "departureTime": 1561627856.000000000,
+      "arrivalTime": 1564410656.000000000
+    },
+    {
+      "departure": "Cruz del Eje",
+      "arrival": "Tizi",
+      "departureTime": 1558902656.000000000,
+      "arrivalTime": 1558902656.000000000
+    },
+    {
+      "departure": "Antalya",
+      "arrival": "Istanbul",
+      "departureTime": 1563588000.000000000,
+      "arrivalTime": 1563678000.000000000
+    },
+    {
+      "departure": "Tizi",
+      "arrival": "Cruz del Eje",
+      "departureTime": 1558902656.000000000,
+      "arrivalTime": 1558902656.000000000
+    },
+    {
+      "departure": "Istanbul",
+      "arrival": "Antalya",
+      "departureTime": 1563588000.000000000,
+      "arrivalTime": 1563678000.000000000
+    },
+    {
+      "departure": "Istanbul",
+      "arrival": "Antalya",
+      "departureTime": 1558902656.000000000,
+      "arrivalTime": 1558902656.000000000
+    },
+    {
+      "departure": "Istanbul",
+      "arrival": "Antalya",
+      "departureTime": 1558902656.000000000,
+      "arrivalTime": 1558902656.000000000
+    },
+    {
+      "departure": "Singapore",
+      "arrival": "Istanbul",
+      "departureTime": 1563588000.000000000,
+      "arrivalTime": 1563678000.000000000
+    },
+    {
+      "departure": "Singapore",
+      "arrival": "Istanbul",
+      "departureTime": 1558907735.000000000,
+      "arrivalTime": 1558907735.000000000
+    },
+    {
+      "departure": "Istanbul",
+      "arrival": "Singapore",
+      "departureTime": 1558907746.000000000,
+      "arrivalTime": 1558907746.000000000
+    },
+    {
+      "departure": "Paris",
+      "arrival": "Singapore",
+      "departureTime": 1558907757.000000000,
+      "arrivalTime": 1558907757.000000000
+    },
+    {
+      "departure": "Greece",
+      "arrival": "Singapore",
+      "departureTime": 1558907761.000000000,
+      "arrivalTime": 1558907761.000000000
+    }
+  ]
+}

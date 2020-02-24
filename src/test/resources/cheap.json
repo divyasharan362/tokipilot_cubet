@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "route": "Cruz del Eje-Antalya",
+      "departure": 1558902656.000000000,
+      "arrival": 1558902656.000000000
+    },
+    {
+      "route": "Cruz del Eje-Tizi",
+      "departure": 1558902656.000000000,
+      "arrival": 1558902656.000000000
+    },
+    {
+      "route": "Greece-Tizi",
+      "departure": 1558902656.000000000,
+      "arrival": 1558902656.000000000
+    },
+    {
+      "route": "Paris-Tizi",
+      "departure": 1558902656.000000000,
+      "arrival": 1558902656.000000000
+    },
+    {
+      "route": "Antalya-Istabul",
+      "departure": 1558935605.000000000,
+      "arrival": 1558935605.000000000
+    },
+    {
+      "route": "Antalya-Venedik",
+      "departure": 1572169220.000000000,
+      "arrival": 1572169220.000000000
+    },
+    {
+      "route": "Amasra-Greece",
+      "departure": 1566423630.000000000,
+      "arrival": 1566423630.000000000
+    },
+    {
+      "route": "Istanbul-Antalya",
+      "departure": 1540629642.000000000,
+      "arrival": 1540802442.000000000
+    }
+  ]
+}
